@@ -52,7 +52,7 @@ bot.on('message', async (message) => {
           img = tmp.body;
         }
         catch (e) {
-          message.reply('internal error occured! Please contact willi123yao#1345');
+          message.reply('internal error occured! Please contact ' + env.discord);
           return;
         }
       }
@@ -62,7 +62,7 @@ bot.on('message', async (message) => {
           img = tmp.body;
         }
         catch (e) {
-          message.reply('internal error occured! Please contact willi123yao#1345');
+          message.reply('internal error occured! Please contact ' + env.discord);
           return;
         }
       }
@@ -90,7 +90,7 @@ bot.on('message', async (message) => {
           img = tmp.body;
         }
         catch (e) {
-          message.reply('internal error occured! Please contact willi123yao#1345');
+          message.reply('internal error occured! Please contact ' + env.discord);
           return;
         }
       }
@@ -100,7 +100,7 @@ bot.on('message', async (message) => {
           img = tmp.body;
         }
         catch (e) {
-          message.reply('internal error occured! Please contact willi123yao#1345');
+          message.reply('internal error occured! Please contact ' + env.discord);
           return;
         }
       }
