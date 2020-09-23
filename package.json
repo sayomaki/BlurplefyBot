@@ -1,0 +1,17 @@
+{
+  "name": "blurplefy",
+  "version": "1.0.0",
+  "description": "Image manipulation to change into blurple :D",
+  "main": "Blurplefy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "willi123yao",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "sharp": "^0.20.2",
+    "snekfetch": "^4.0.0",
+    "uws": "^9.148.0"
+  }
+}
